@@ -15,3 +15,7 @@ typedef struct
     const Gpio_ConfigPin* pins;
     uint32_t num_pins;
 } Gpio_ConfigType;
+
+#define GPIO_MODER_OFFSET 0x00
+#define GPIO_ODR_OFFSET 0x14
+#define GPIO_IDR_OFFSET 0x10
