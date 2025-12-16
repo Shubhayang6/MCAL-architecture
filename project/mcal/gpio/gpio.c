@@ -6,21 +6,23 @@
 #define GPIO_ODR_OFFSET 0x14
 #define GPIO_IDR_OFFSET 0x10
 
-#define REG32(addr) (*(volatile uint32_t*)(addr))
+#define REG32(addr) (*(volatile uint32_t *)(addr))
 
-static const Gpio_ConfigType* Gpio_ConfigPtr = 0;
+static const Gpio_ConfigType *Gpio_ConfigPtr = 0;
 
-void Gpio_init(const void* ConfigPtr)
+void Gpio_init(const void *ConfigPtr)
 {
-    Gpio_ConfigPtr = (const Gpio_ConfigType*)ConfigPtr;
+    Gpio_ConfigPtr = (const Gpio_ConfigType *)ConfigPtr;
 
-    for (uint32_t i = 0; i< Gpio_ConfigPtr->num_pins; i++){
-        const Gpio_ConfigPin* cfg = &Gpio_ConfigPtr->pins[i];
+    for (uint32_t i = 0; i < Gpio_ConfigPtr->num_pins; i++)
+    {
+        const Gpio_ConfigPin *cfg = &Gpio_ConfigPtr->pins[i];
 
         uint32_t moder = REG32(cfg->port_base + GPIO_MODER_OFFSET);
         moder &= ~(0x3 << (cfg->pin * 2));
 
-        if (cfg->direction == GPIO_OUTPUT) {
+        if (cfg->direction == GPIO_OUTPUT)
+        {
             moder |= (0x1 << (cfg->pin * 2));
         }
 
@@ -42,5 +44,5 @@ void Gpio_WritePin(Gpio_PinType pin, Gpio_LevelType level)
 
 Gpio_LevelType Gpio_ReadPin(Gpio_PinType pin)
 {
-    return (REG32(GPIOA_BASE + GPIO_IDR_OFFSET)& (1<<pin)) ? GPIO_HIGH : GPIO_LOW;
+    return (REG32(GPIOA_BASE + GPIO_IDR_OFFSET) & (1 << pin)) ? GPIO_HIGH : GPIO_LOW;
 }
