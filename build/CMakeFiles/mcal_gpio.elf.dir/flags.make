@@ -7,11 +7,11 @@ ASM_DEFINES =
 
 ASM_INCLUDES = -IC:\Users\shubh\Quants\MCAL-architecture\mcal
 
-ASM_FLAGS = -mcpu=cortex-m4 -mthumb -mcpu=cortex-m4 -mthumb -ffreestanding -nostdlib
+ASM_FLAGS = -mcpu=cortex-m4 -mthumb -mcpu=cortex-m4 -mthumb -ffreestanding
 
 C_DEFINES = 
 
 C_INCLUDES = -IC:\Users\shubh\Quants\MCAL-architecture\mcal
 
-C_FLAGS = -mcpu=cortex-m4 -mthumb -O0 -g -ffreestanding -nostdlib -mcpu=cortex-m4 -mthumb -ffreestanding -nostdlib
+C_FLAGS = -mcpu=cortex-m4 -mthumb -ffreestanding -mcpu=cortex-m4 -mthumb -ffreestanding
 
