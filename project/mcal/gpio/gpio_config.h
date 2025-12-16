@@ -24,8 +24,6 @@ typedef struct
 
 extern const Gpio_ConfigType Gpio_Config;
 
-// #define GPIO_MODER_OFFSET 0x00
-// #define GPIO_ODR_OFFSET 0x14
-// #define GPIO_IDR_OFFSET 0x10
+
 
 #endif
