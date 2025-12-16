@@ -1,4 +1,4 @@
-cmake cmake_minimum_required(VERSION 3.13)
+cmake_minimum_required(VERSION 3.13)
 
 project (mcal_gpio C ASM)
 
