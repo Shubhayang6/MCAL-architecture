@@ -1,5 +1,5 @@
-#include "gpio.h"
-#include "gpio_config.h"
+#include "gpio/gpio.h"
+#include "gpio/gpio_config.h"
 
 static const Gpio_ConfigPin gpio_pins[] = {
     {

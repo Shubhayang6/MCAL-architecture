@@ -10,7 +10,7 @@
 
 static const Gpio_ConfigType *Gpio_ConfigPtr = 0;
 
-void Gpio_init(const void *ConfigPtr)
+void Gpio_Init(const void *ConfigPtr)
 {
     Gpio_ConfigPtr = (const Gpio_ConfigType *)ConfigPtr;
 
@@ -38,7 +38,7 @@ void Gpio_WritePin(Gpio_PinType pin, Gpio_LevelType level)
     }
     else
     {
-        REG32(GPIOA_BASE + GPIO_IDR_OFFSET) &= (1 << pin);
+        REG32(GPIOA_BASE + GPIO_ODR_OFFSET) &= (1 << pin);
     }
 }
 

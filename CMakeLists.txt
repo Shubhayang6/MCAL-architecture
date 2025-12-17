@@ -1,21 +1,27 @@
 cmake_minimum_required(VERSION 3.13)
 
-project (mcal_gpio C ASM)
+project(mcal_gpio C ASM)
 
-set(CMAKE_SYSTEM_NAME Generic)
-set(CMAKE_C_COMPILER arm-none-eabi-gcc)
-
-set(CMAKE_C_FLAGS "-mpcu=cortex-m4 -mthumb =O0 -g")
-
-add_executable(
-    mcal_gpio.elf
+add_executable(mcal_gpio.elf
     startup/startup.s
     app/main.c
     mcal/gpio/gpio.c
 )
 
-target_include_directories(mcal_gpio.elf PRIVATE mcal/gpio)
+target_include_directories(mcal_gpio.elf PRIVATE
+    mcal
+)
 
-set_target_properties(mcal_gpio.elf PROPERTIES
-    LINK_FLAGS "-T startup/linked.ld -nostartfiles"
+# Compile flags (target-specific)
+target_compile_options(mcal_gpio.elf PRIVATE
+    -mcpu=cortex-m4
+    -mthumb
+    -ffreestanding
+)
+
+# Link flags (bare metal, NO CRT)
+target_link_options(mcal_gpio.elf PRIVATE
+    -T ${CMAKE_SOURCE_DIR}/startup/linker.ld
+    -nostartfiles
+    -nodefaultlibs
 )
