@@ -42,7 +42,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -90,8 +90,8 @@ events:
       - "C:/MinGW/bin/mingw32-make.exe"
       - "C:/Program Files/nodejs/mingw32-make.exe.com"
       - "C:/Program Files/nodejs/mingw32-make.exe"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/mingw32-make.exe.com"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/mingw32-make.exe"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/mingw32-make.exe.com"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/mingw32-make.exe"
       - "C:/Program Files/Amazon/AWSCLIV2/mingw32-make.exe.com"
       - "C:/Program Files/Amazon/AWSCLIV2/mingw32-make.exe"
       - "C:/Program Files/Docker/Docker/resources/bin/mingw32-make.exe.com"
@@ -119,12 +119,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -138,6 +139,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -184,12 +186,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -203,6 +206,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "message-v1"
     backtrace:
@@ -291,12 +295,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -310,6 +315,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "message-v1"
     backtrace:
@@ -368,7 +374,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -406,12 +412,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -425,6 +432,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -461,7 +469,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -499,12 +507,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -518,6 +527,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -554,7 +564,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -592,12 +602,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -611,6 +622,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -647,7 +659,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -685,12 +697,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -704,6 +717,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -740,7 +754,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -778,12 +792,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -797,6 +812,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -833,7 +849,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -871,12 +887,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -890,6 +907,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -926,7 +944,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -964,12 +982,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -983,6 +1002,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1019,7 +1039,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -1057,12 +1077,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -1076,6 +1097,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1112,7 +1134,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -1172,9 +1194,9 @@ events:
       - "C:/Program Files/nodejs/arm-none-eabi-dlltool.com"
       - "C:/Program Files/nodejs/arm-none-eabi-dlltool.exe"
       - "C:/Program Files/nodejs/arm-none-eabi-dlltool"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-dlltool.com"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-dlltool.exe"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-dlltool"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-dlltool.com"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-dlltool.exe"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-dlltool"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-dlltool.com"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-dlltool.exe"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-dlltool"
@@ -1259,9 +1281,9 @@ events:
       - "C:/Program Files/nodejs/dlltool.com"
       - "C:/Program Files/nodejs/dlltool.exe"
       - "C:/Program Files/nodejs/dlltool"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/dlltool.com"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/dlltool.exe"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/dlltool"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/dlltool.com"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/dlltool.exe"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/dlltool"
       - "C:/Program Files/Amazon/AWSCLIV2/dlltool.com"
       - "C:/Program Files/Amazon/AWSCLIV2/dlltool.exe"
       - "C:/Program Files/Amazon/AWSCLIV2/dlltool"
@@ -1291,12 +1313,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -1310,6 +1333,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1346,7 +1370,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -1384,12 +1408,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -1403,6 +1428,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1439,7 +1465,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -1499,9 +1525,9 @@ events:
       - "C:/Program Files/nodejs/arm-none-eabi-tapi.com"
       - "C:/Program Files/nodejs/arm-none-eabi-tapi.exe"
       - "C:/Program Files/nodejs/arm-none-eabi-tapi"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-tapi.com"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-tapi.exe"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-tapi"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-tapi.com"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-tapi.exe"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-tapi"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-tapi.com"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-tapi.exe"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-tapi"
@@ -1586,9 +1612,9 @@ events:
       - "C:/Program Files/nodejs/tapi.com"
       - "C:/Program Files/nodejs/tapi.exe"
       - "C:/Program Files/nodejs/tapi"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/tapi.com"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/tapi.exe"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/tapi"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/tapi.com"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/tapi.exe"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/tapi"
       - "C:/Program Files/Amazon/AWSCLIV2/tapi.com"
       - "C:/Program Files/Amazon/AWSCLIV2/tapi.exe"
       - "C:/Program Files/Amazon/AWSCLIV2/tapi"
@@ -1650,12 +1676,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -1669,6 +1696,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1707,7 +1735,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -1767,9 +1795,9 @@ events:
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-14.3.com"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-14.3.exe"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-14.3"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-14.3.com"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-14.3.exe"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-14.3"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-14.3.com"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-14.3.exe"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-14.3"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ar-14.3.com"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ar-14.3.exe"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ar-14.3"
@@ -1854,9 +1882,9 @@ events:
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-14.com"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-14.exe"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-14"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-14.com"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-14.exe"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-14"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-14.com"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-14.exe"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-14"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ar-14.com"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ar-14.exe"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ar-14"
@@ -1941,9 +1969,9 @@ events:
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar14.com"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar14.exe"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar14"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar14.com"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar14.exe"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar14"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar14.com"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar14.exe"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar14"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ar14.com"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ar14.exe"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ar14"
@@ -2006,12 +2034,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -2025,6 +2054,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -2063,7 +2093,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -2123,9 +2153,9 @@ events:
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-14.3.com"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-14.3.exe"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-14.3"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-14.3.com"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-14.3.exe"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-14.3"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-14.3.com"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-14.3.exe"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-14.3"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ranlib-14.3.com"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ranlib-14.3.exe"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ranlib-14.3"
@@ -2210,9 +2240,9 @@ events:
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-14.com"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-14.exe"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-14"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-14.com"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-14.exe"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-14"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-14.com"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-14.exe"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-14"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ranlib-14.com"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ranlib-14.exe"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ranlib-14"
@@ -2297,9 +2327,9 @@ events:
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib14.com"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib14.exe"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib14"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib14.com"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib14.exe"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib14"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib14.com"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib14.exe"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib14"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ranlib14.com"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ranlib14.exe"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ranlib14"
@@ -2362,12 +2392,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -2381,6 +2412,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "message-v1"
     backtrace:
@@ -2432,7 +2464,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -2492,9 +2524,9 @@ events:
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-.com"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-.exe"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-.com"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-.exe"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-.com"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-.exe"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ar-.com"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ar-.exe"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ar-"
@@ -2579,9 +2611,9 @@ events:
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-.com"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-.exe"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-.com"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-.exe"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-.com"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-.exe"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ar-"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ar-.com"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ar-.exe"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ar-"
@@ -2644,12 +2676,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -2663,6 +2696,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -2701,7 +2735,7 @@ events:
       - "C:/Program Files/Git LFS/"
       - "C:/MinGW/bin/"
       - "C:/Program Files/nodejs/"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/"
       - "C:/Program Files/Amazon/AWSCLIV2/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/mingw64/bin/"
@@ -2761,9 +2795,9 @@ events:
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-.com"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-.exe"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-.com"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-.exe"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ranlib-"
@@ -2848,9 +2882,9 @@ events:
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-.com"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-.exe"
-      - "C:/Users/shubh/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-.com"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-.exe"
+      - "C:/Windows/System32/config/systemprofile/AppData/Local/Muse Hub/lib/arm-none-eabi-gcc-ranlib-"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Program Files/Amazon/AWSCLIV2/arm-none-eabi-gcc-ranlib-"
@@ -2913,12 +2947,13 @@ events:
         - "C:\\Program Files\\Git LFS"
         - "C:\\MinGW\\bin"
         - "C:\\Program Files\\nodejs\\"
-        - "C:\\Users\\shubh\\AppData\\Local\\Muse Hub\\lib"
+        - "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Muse Hub\\lib"
         - "C:\\Program Files\\Amazon\\AWSCLIV2\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\mingw64\\bin"
         - "C:\\msys64\\mingw64\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
         - "C:\\Users\\shubh\\.cargo\\bin"
         - "C:\\Users\\shubh\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -2932,6 +2967,7 @@ events:
         - "C:\\msys64\\ucrt64\\bin"
         - "C:\\Program Files\\Multipass\\bin"
         - "C:\\Program Files\\qemu"
+        - "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.3 rel1\\bin"
   -
     kind: "try_compile-v1"
     backtrace:
@@ -2941,8 +2977,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-4uznlb"
-      binary: "C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-4uznlb"
+      source: "C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-44t1qk"
+      binary: "C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-44t1qk"
     cmakeVariables:
       CMAKE_C_FLAGS: "-mcpu=cortex-m4 -mthumb -ffreestanding"
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -2951,13 +2987,13 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-4uznlb'
+        Change Dir: 'C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-44t1qk'
         
-        Run Build Command(s): C:/Users/shubh/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0/LocalCache/local-packages/Python311/site-packages/cmake/data/bin/cmake.exe -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_69d52/fast
-        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_69d52.dir\\build.make CMakeFiles/cmTC_69d52.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-4uznlb'
-        Building C object CMakeFiles/cmTC_69d52.dir/CMakeCCompilerABI.c.obj
-        C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE   -mcpu=cortex-m4 -mthumb -ffreestanding    -v -o CMakeFiles\\cmTC_69d52.dir\\CMakeCCompilerABI.c.obj -c C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c
+        Run Build Command(s): C:/Users/shubh/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0/LocalCache/local-packages/Python311/site-packages/cmake/data/bin/cmake.exe -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_7bb8d/fast
+        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_7bb8d.dir\\build.make CMakeFiles/cmTC_7bb8d.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-44t1qk'
+        Building C object CMakeFiles/cmTC_7bb8d.dir/CMakeCCompilerABI.c.obj
+        C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE   -mcpu=cortex-m4 -mthumb -ffreestanding    -v -o CMakeFiles\\cmTC_7bb8d.dir\\CMakeCCompilerABI.c.obj -c C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE
         Target: arm-none-eabi
@@ -2965,8 +3001,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 14.3.1 20250623 (Arm GNU Toolchain 14.3.Rel1 (Build arm-14.174)) 
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-ffreestanding' '-v' '-o' 'CMakeFiles\\cmTC_69d52.dir\\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv7e-m' '-march=armv7e-m' '-dumpdir' 'CMakeFiles\\cmTC_69d52.dir\\'
-         C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../libexec/gcc/arm-none-eabi/14.3.1/cc1.exe -quiet -v -imultilib thumb/v7e-m/nofp -iprefix C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/ -isysroot C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../arm-none-eabi -D__USES_INITFINI__ C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_69d52.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -mlibarch=armv7e-m -march=armv7e-m -version -ffreestanding -o C:\\Users\\shubh\\AppData\\Local\\Temp\\cc4TmUTG.s
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-ffreestanding' '-v' '-o' 'CMakeFiles\\cmTC_7bb8d.dir\\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv7e-m' '-march=armv7e-m' '-dumpdir' 'CMakeFiles\\cmTC_7bb8d.dir\\'
+         C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../libexec/gcc/arm-none-eabi/14.3.1/cc1.exe -quiet -v -imultilib thumb/v7e-m/nofp -iprefix C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/ -isysroot C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../arm-none-eabi -D__USES_INITFINI__ C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_7bb8d.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -mlibarch=armv7e-m -march=armv7e-m -version -ffreestanding -o C:\\Users\\shubh\\AppData\\Local\\Temp\\ccer4nGz.s
         GNU C17 (Arm GNU Toolchain 14.3.Rel1 (Build arm-14.174)) version 14.3.1 20250623 (arm-none-eabi)
         	compiled by GNU C version 10-win32 20220113, GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
         
@@ -2983,18 +3019,18 @@ events:
          C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/include
         End of search list.
         Compiler executable checksum: b7d3e61a3c100ce920bcfa732511112e
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-ffreestanding' '-v' '-o' 'CMakeFiles\\cmTC_69d52.dir\\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv7e-m' '-march=armv7e-m' '-dumpdir' 'CMakeFiles\\cmTC_69d52.dir\\'
-         C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_69d52.dir\\CMakeCCompilerABI.c.obj C:\\Users\\shubh\\AppData\\Local\\Temp\\cc4TmUTG.s
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-ffreestanding' '-v' '-o' 'CMakeFiles\\cmTC_7bb8d.dir\\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv7e-m' '-march=armv7e-m' '-dumpdir' 'CMakeFiles\\cmTC_7bb8d.dir\\'
+         C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_7bb8d.dir\\CMakeCCompilerABI.c.obj C:\\Users\\shubh\\AppData\\Local\\Temp\\ccer4nGz.s
         GNU assembler version 2.44.0 (arm-none-eabi) using BFD version (Arm GNU Toolchain 14.3.Rel1 (Build arm-14.174)) 2.44.0.20250616
         COMPILER_PATH=C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../libexec/gcc/arm-none-eabi/14.3.1/;C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../libexec/gcc/;C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/;C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/;C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp/;C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/;C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/;C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/;C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-ffreestanding' '-v' '-o' 'CMakeFiles\\cmTC_69d52.dir\\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv7e-m' '-march=armv7e-m' '-dumpdir' 'CMakeFiles\\cmTC_69d52.dir\\CMakeCCompilerABI.c.'
-        Linking C static library libcmTC_69d52.a
-        C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\bin\\cmake.exe -P CMakeFiles\\cmTC_69d52.dir\\cmake_clean_target.cmake
-        C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_69d52.dir\\link.txt --verbose=1
-        C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\ARM-NO~2.EXE qc libcmTC_69d52.a CMakeFiles/cmTC_69d52.dir/CMakeCCompilerABI.c.obj
-        C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR17F9~1.EXE libcmTC_69d52.a
-        mingw32-make[1]: Leaving directory 'C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-4uznlb'
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-ffreestanding' '-v' '-o' 'CMakeFiles\\cmTC_7bb8d.dir\\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv7e-m' '-march=armv7e-m' '-dumpdir' 'CMakeFiles\\cmTC_7bb8d.dir\\CMakeCCompilerABI.c.'
+        Linking C static library libcmTC_7bb8d.a
+        C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\bin\\cmake.exe -P CMakeFiles\\cmTC_7bb8d.dir\\cmake_clean_target.cmake
+        C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_7bb8d.dir\\link.txt --verbose=1
+        C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\ARM-NO~2.EXE qc libcmTC_7bb8d.a CMakeFiles/cmTC_7bb8d.dir/CMakeCCompilerABI.c.obj
+        C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR17F9~1.EXE libcmTC_7bb8d.a
+        mingw32-make[1]: Leaving directory 'C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-44t1qk'
         
       exitCode: 0
   -
@@ -3027,13 +3063,13 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-4uznlb']
+        ignore line: [Change Dir: 'C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-44t1qk']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/Users/shubh/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0/LocalCache/local-packages/Python311/site-packages/cmake/data/bin/cmake.exe -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_69d52/fast]
-        ignore line: [C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_69d52.dir\\build.make CMakeFiles/cmTC_69d52.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-4uznlb']
-        ignore line: [Building C object CMakeFiles/cmTC_69d52.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE   -mcpu=cortex-m4 -mthumb -ffreestanding    -v -o CMakeFiles\\cmTC_69d52.dir\\CMakeCCompilerABI.c.obj -c C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): C:/Users/shubh/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0/LocalCache/local-packages/Python311/site-packages/cmake/data/bin/cmake.exe -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_7bb8d/fast]
+        ignore line: [C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_7bb8d.dir\\build.make CMakeFiles/cmTC_7bb8d.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-44t1qk']
+        ignore line: [Building C object CMakeFiles/cmTC_7bb8d.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE   -mcpu=cortex-m4 -mthumb -ffreestanding    -v -o CMakeFiles\\cmTC_7bb8d.dir\\CMakeCCompilerABI.c.obj -c C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE]
         ignore line: [Target: arm-none-eabi]
@@ -3041,8 +3077,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 14.3.1 20250623 (Arm GNU Toolchain 14.3.Rel1 (Build arm-14.174)) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-ffreestanding' '-v' '-o' 'CMakeFiles\\cmTC_69d52.dir\\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv7e-m' '-march=armv7e-m' '-dumpdir' 'CMakeFiles\\cmTC_69d52.dir\\']
-        ignore line: [ C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../libexec/gcc/arm-none-eabi/14.3.1/cc1.exe -quiet -v -imultilib thumb/v7e-m/nofp -iprefix C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/ -isysroot C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../arm-none-eabi -D__USES_INITFINI__ C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_69d52.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -mlibarch=armv7e-m -march=armv7e-m -version -ffreestanding -o C:\\Users\\shubh\\AppData\\Local\\Temp\\cc4TmUTG.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-ffreestanding' '-v' '-o' 'CMakeFiles\\cmTC_7bb8d.dir\\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv7e-m' '-march=armv7e-m' '-dumpdir' 'CMakeFiles\\cmTC_7bb8d.dir\\']
+        ignore line: [ C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../libexec/gcc/arm-none-eabi/14.3.1/cc1.exe -quiet -v -imultilib thumb/v7e-m/nofp -iprefix C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/ -isysroot C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../arm-none-eabi -D__USES_INITFINI__ C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_7bb8d.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -mlibarch=armv7e-m -march=armv7e-m -version -ffreestanding -o C:\\Users\\shubh\\AppData\\Local\\Temp\\ccer4nGz.s]
         ignore line: [GNU C17 (Arm GNU Toolchain 14.3.Rel1 (Build arm-14.174)) version 14.3.1 20250623 (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 10-win32 20220113  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
         ignore line: []
@@ -3059,8 +3095,8 @@ events:
         ignore line: [ C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: b7d3e61a3c100ce920bcfa732511112e]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-ffreestanding' '-v' '-o' 'CMakeFiles\\cmTC_69d52.dir\\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv7e-m' '-march=armv7e-m' '-dumpdir' 'CMakeFiles\\cmTC_69d52.dir\\']
-        ignore line: [ C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_69d52.dir\\CMakeCCompilerABI.c.obj C:\\Users\\shubh\\AppData\\Local\\Temp\\cc4TmUTG.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-ffreestanding' '-v' '-o' 'CMakeFiles\\cmTC_7bb8d.dir\\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv7e-m' '-march=armv7e-m' '-dumpdir' 'CMakeFiles\\cmTC_7bb8d.dir\\']
+        ignore line: [ C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_7bb8d.dir\\CMakeCCompilerABI.c.obj C:\\Users\\shubh\\AppData\\Local\\Temp\\ccer4nGz.s]
         ignore line: [GNU assembler version 2.44.0 (arm-none-eabi) using BFD version (Arm GNU Toolchain 14.3.Rel1 (Build arm-14.174)) 2.44.0.20250616]
         ignore line: [COMPILER_PATH=C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../libexec/gcc/arm-none-eabi/14.3.1/]
         ignore line: [C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../libexec/gcc/]
@@ -3072,13 +3108,13 @@ events:
         ignore line: [C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/]
         ignore line: [C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/]
         ignore line: [C:/PROGRA~2/ARMGNU~1/142BCE~1.3RE/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-ffreestanding' '-v' '-o' 'CMakeFiles\\cmTC_69d52.dir\\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv7e-m' '-march=armv7e-m' '-dumpdir' 'CMakeFiles\\cmTC_69d52.dir\\CMakeCCompilerABI.c.']
-        ignore line: [Linking C static library libcmTC_69d52.a]
-        ignore line: [C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\bin\\cmake.exe -P CMakeFiles\\cmTC_69d52.dir\\cmake_clean_target.cmake]
-        ignore line: [C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_69d52.dir\\link.txt --verbose=1]
-        ignore line: [C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\ARM-NO~2.EXE qc libcmTC_69d52.a CMakeFiles/cmTC_69d52.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR17F9~1.EXE libcmTC_69d52.a]
-        ignore line: [mingw32-make[1]: Leaving directory 'C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-4uznlb']
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-ffreestanding' '-v' '-o' 'CMakeFiles\\cmTC_7bb8d.dir\\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv7e-m' '-march=armv7e-m' '-dumpdir' 'CMakeFiles\\cmTC_7bb8d.dir\\CMakeCCompilerABI.c.']
+        ignore line: [Linking C static library libcmTC_7bb8d.a]
+        ignore line: [C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\bin\\cmake.exe -P CMakeFiles\\cmTC_7bb8d.dir\\cmake_clean_target.cmake]
+        ignore line: [C:\\Users\\shubh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\cmake\\data\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_7bb8d.dir\\link.txt --verbose=1]
+        ignore line: [C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\ARM-NO~2.EXE qc libcmTC_7bb8d.a CMakeFiles/cmTC_7bb8d.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR17F9~1.EXE libcmTC_7bb8d.a]
+        ignore line: [mingw32-make[1]: Leaving directory 'C:/Users/shubh/Quants/MCAL-architecture/build/CMakeFiles/CMakeScratch/TryCompile-44t1qk']
         ignore line: []
         ignore line: []
         implicit libs: []

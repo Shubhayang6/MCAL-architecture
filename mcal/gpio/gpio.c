@@ -1,6 +1,9 @@
 #include "gpio.h"
 #include "gpio_config.h"
 
+/* mock GPIO register */
+volatile uint32_t MOCK_GPIO_ODR = 0;
+
 /* Register Offsets */
 #define GPIO_MODER_OFFSET 0x00
 #define GPIO_ODR_OFFSET 0x14
@@ -34,11 +37,11 @@ void Gpio_WritePin(Gpio_PinType pin, Gpio_LevelType level)
 {
     if (level == GPIO_HIGH)
     {
-        REG32(GPIOA_BASE + GPIO_ODR_OFFSET) |= (1 << pin);
+        MOCK_GPIO_ODR |= (1 << pin);
     }
     else
     {
-        REG32(GPIOA_BASE + GPIO_ODR_OFFSET) &= (1 << pin);
+        MOCK_GPIO_ODR &= ~(1 << pin);
     }
 }
 
